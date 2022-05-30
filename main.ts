@@ -36,7 +36,6 @@ huskylens.initI2c()
 huskylens.initMode(protocolAlgorithm.ALGORITHM_FACE_RECOGNITION)
 huskylens.writeName(1, "Hayden")
 DFRobotMaqueenPlus.PID(PID.ON)
-soundExpression.yawn.play()
 basic.forever(function () {
 	
 })
