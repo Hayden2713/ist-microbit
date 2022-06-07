@@ -1,4 +1,3 @@
-DFRobotMaqueenPlus.I2CInit()
 DFRobotMaqueenPlus.PID(PID.ON)
 music.playTone(440, music.beat(BeatFraction.Half))
 music.playTone(523, music.beat(BeatFraction.Half))
